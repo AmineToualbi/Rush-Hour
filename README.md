@@ -1,9 +1,16 @@
 # Rush-Hour
 
-First Android app.
+This app is my first Android app ever developed. 
 
-Android 2D game where the player controls a car on the wrong side of the freeway and has to dodge vehicles. 
+It is a 2D Android game where the player controls a car on the wrong side of the freeway and has to dodge vehicles. 
 
-Not optimized for small screen devices. 
+This app is not optimized for small screen devices. 
+
+# UI
+
+![alt text](https://image.noelshack.com/fichiers/2019/16/4/1555621620-playstore-screenshot-rush-hour.png)
+
+
+# Play Store
 
 https://play.google.com/store/apps/details?id=com.myapps.toualbiamine.rushhour
